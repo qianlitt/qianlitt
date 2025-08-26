@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
 ![Arch Linux](https://img.shields.io/badge/Platform-Arch_Linux-blue?logo=arch-linux)
+![NixOS](https://img.shields.io/badge/Platform-NixOS-blue?logo=nixos&labelColor=73C3D5)
 
 ![VS Code](https://img.shields.io/badge/IDE-Visual_Studio_Code-red?logo=visual-studio-code)
 
