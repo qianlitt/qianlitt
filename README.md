@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![qianlitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianlitt&show_icons=true&theme=radical)](https://github.com/qianlitt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianlitt&layout=compact&theme=radical)](https://github.com/qianlitt/github-readme-stats)
+![qianlitt's GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ## Platform & Tools
 
