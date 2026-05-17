@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![qianlitt's GitHub stats](./profile/stats.svg)
-![Top Langs](./profile/top-langs.svg)
 
 ## Platform & Tools
 
